@@ -20,3 +20,5 @@
 
 ![](https://i.etsystatic.com/23425151/r/il/14ec4e/2698503548/il_1588xN.2698503548_o8ju.jpg)
 
+*Для получения справки по Git перейдите по ссылке:*
+[https://github.com/netology-code/guides/blob/master/git-basics/GitCommandGuide.md]()
