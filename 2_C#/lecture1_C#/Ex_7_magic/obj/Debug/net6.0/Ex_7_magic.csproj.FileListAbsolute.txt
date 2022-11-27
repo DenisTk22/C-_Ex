@@ -1,0 +1,15 @@
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\lecture1_C#\Ex_7_magic\bin\Debug\net6.0\Ex_7_magic.exe
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\lecture1_C#\Ex_7_magic\bin\Debug\net6.0\Ex_7_magic.deps.json
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\lecture1_C#\Ex_7_magic\bin\Debug\net6.0\Ex_7_magic.runtimeconfig.json
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\lecture1_C#\Ex_7_magic\bin\Debug\net6.0\Ex_7_magic.dll
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\lecture1_C#\Ex_7_magic\bin\Debug\net6.0\Ex_7_magic.pdb
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\lecture1_C#\Ex_7_magic\obj\Debug\net6.0\Ex_7_magic.csproj.AssemblyReference.cache
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\lecture1_C#\Ex_7_magic\obj\Debug\net6.0\Ex_7_magic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\lecture1_C#\Ex_7_magic\obj\Debug\net6.0\Ex_7_magic.AssemblyInfoInputs.cache
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\lecture1_C#\Ex_7_magic\obj\Debug\net6.0\Ex_7_magic.AssemblyInfo.cs
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\lecture1_C#\Ex_7_magic\obj\Debug\net6.0\Ex_7_magic.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\lecture1_C#\Ex_7_magic\obj\Debug\net6.0\Ex_7_magic.dll
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\lecture1_C#\Ex_7_magic\obj\Debug\net6.0\refint\Ex_7_magic.dll
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\lecture1_C#\Ex_7_magic\obj\Debug\net6.0\Ex_7_magic.pdb
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\lecture1_C#\Ex_7_magic\obj\Debug\net6.0\Ex_7_magic.genruntimeconfig.cache
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\lecture1_C#\Ex_7_magic\obj\Debug\net6.0\ref\Ex_7_magic.dll
