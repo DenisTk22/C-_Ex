@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.Write("Введите ваше имя ");
-string username = Console.ReadLine();
+string username2 = Console.ReadLine();
 Console.Write("Привет,  ");
-Console.Write(username);
+Console.Write(username2);
