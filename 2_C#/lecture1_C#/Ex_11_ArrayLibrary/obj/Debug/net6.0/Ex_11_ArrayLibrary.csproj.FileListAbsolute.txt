@@ -1,0 +1,15 @@
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\lecture1_C#\Ex_11_ArrayLibrary\obj\Debug\net6.0\Ex_11_ArrayLibrary.csproj.AssemblyReference.cache
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\lecture1_C#\Ex_11_ArrayLibrary\obj\Debug\net6.0\Ex_11_ArrayLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\lecture1_C#\Ex_11_ArrayLibrary\obj\Debug\net6.0\Ex_11_ArrayLibrary.AssemblyInfoInputs.cache
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\lecture1_C#\Ex_11_ArrayLibrary\obj\Debug\net6.0\Ex_11_ArrayLibrary.AssemblyInfo.cs
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\lecture1_C#\Ex_11_ArrayLibrary\obj\Debug\net6.0\Ex_11_ArrayLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\lecture1_C#\Ex_11_ArrayLibrary\bin\Debug\net6.0\Ex_11_ArrayLibrary.exe
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\lecture1_C#\Ex_11_ArrayLibrary\bin\Debug\net6.0\Ex_11_ArrayLibrary.deps.json
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\lecture1_C#\Ex_11_ArrayLibrary\bin\Debug\net6.0\Ex_11_ArrayLibrary.runtimeconfig.json
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\lecture1_C#\Ex_11_ArrayLibrary\bin\Debug\net6.0\Ex_11_ArrayLibrary.dll
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\lecture1_C#\Ex_11_ArrayLibrary\bin\Debug\net6.0\Ex_11_ArrayLibrary.pdb
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\lecture1_C#\Ex_11_ArrayLibrary\obj\Debug\net6.0\Ex_11_ArrayLibrary.dll
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\lecture1_C#\Ex_11_ArrayLibrary\obj\Debug\net6.0\refint\Ex_11_ArrayLibrary.dll
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\lecture1_C#\Ex_11_ArrayLibrary\obj\Debug\net6.0\Ex_11_ArrayLibrary.pdb
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\lecture1_C#\Ex_11_ArrayLibrary\obj\Debug\net6.0\Ex_11_ArrayLibrary.genruntimeconfig.cache
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\lecture1_C#\Ex_11_ArrayLibrary\obj\Debug\net6.0\ref\Ex_11_ArrayLibrary.dll
