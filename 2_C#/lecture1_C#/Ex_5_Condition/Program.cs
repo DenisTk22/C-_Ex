@@ -1,6 +1,6 @@
 ﻿Console.Write("Enter your name: ");
 string username = Console.ReadLine()!;
-if (username == "Denis")
+if (username == "olga")
 {
     Console.WriteLine("Ura, Denis");
 }
