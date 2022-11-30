@@ -1,0 +1,15 @@
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\lecture1_C#\Ex_9_array\bin\Debug\net6.0\Ex_9_array.exe
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\lecture1_C#\Ex_9_array\bin\Debug\net6.0\Ex_9_array.deps.json
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\lecture1_C#\Ex_9_array\bin\Debug\net6.0\Ex_9_array.runtimeconfig.json
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\lecture1_C#\Ex_9_array\bin\Debug\net6.0\Ex_9_array.dll
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\lecture1_C#\Ex_9_array\bin\Debug\net6.0\Ex_9_array.pdb
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\lecture1_C#\Ex_9_array\obj\Debug\net6.0\Ex_9_array.csproj.AssemblyReference.cache
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\lecture1_C#\Ex_9_array\obj\Debug\net6.0\Ex_9_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\lecture1_C#\Ex_9_array\obj\Debug\net6.0\Ex_9_array.AssemblyInfoInputs.cache
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\lecture1_C#\Ex_9_array\obj\Debug\net6.0\Ex_9_array.AssemblyInfo.cs
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\lecture1_C#\Ex_9_array\obj\Debug\net6.0\Ex_9_array.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\lecture1_C#\Ex_9_array\obj\Debug\net6.0\Ex_9_array.dll
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\lecture1_C#\Ex_9_array\obj\Debug\net6.0\refint\Ex_9_array.dll
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\lecture1_C#\Ex_9_array\obj\Debug\net6.0\Ex_9_array.pdb
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\lecture1_C#\Ex_9_array\obj\Debug\net6.0\Ex_9_array.genruntimeconfig.cache
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\lecture1_C#\Ex_9_array\obj\Debug\net6.0\ref\Ex_9_array.dll
