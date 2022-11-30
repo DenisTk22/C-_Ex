@@ -1,0 +1,15 @@
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\lecture1_C#\Ex_8_function\obj\Debug\net6.0\Ex_8_function.csproj.AssemblyReference.cache
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\lecture1_C#\Ex_8_function\obj\Debug\net6.0\Ex_8_function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\lecture1_C#\Ex_8_function\obj\Debug\net6.0\Ex_8_function.AssemblyInfoInputs.cache
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\lecture1_C#\Ex_8_function\obj\Debug\net6.0\Ex_8_function.AssemblyInfo.cs
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\lecture1_C#\Ex_8_function\obj\Debug\net6.0\Ex_8_function.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\lecture1_C#\Ex_8_function\bin\Debug\net6.0\Ex_8_function.exe
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\lecture1_C#\Ex_8_function\bin\Debug\net6.0\Ex_8_function.deps.json
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\lecture1_C#\Ex_8_function\bin\Debug\net6.0\Ex_8_function.runtimeconfig.json
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\lecture1_C#\Ex_8_function\bin\Debug\net6.0\Ex_8_function.dll
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\lecture1_C#\Ex_8_function\bin\Debug\net6.0\Ex_8_function.pdb
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\lecture1_C#\Ex_8_function\obj\Debug\net6.0\Ex_8_function.dll
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\lecture1_C#\Ex_8_function\obj\Debug\net6.0\refint\Ex_8_function.dll
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\lecture1_C#\Ex_8_function\obj\Debug\net6.0\Ex_8_function.pdb
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\lecture1_C#\Ex_8_function\obj\Debug\net6.0\Ex_8_function.genruntimeconfig.cache
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\lecture1_C#\Ex_8_function\obj\Debug\net6.0\ref\Ex_8_function.dll
