@@ -1,0 +1,15 @@
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\lecture1_C#\Ex_HelloConsole\bin\Debug\net6.0\Ex_HelloConsole.exe
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\lecture1_C#\Ex_HelloConsole\bin\Debug\net6.0\Ex_HelloConsole.deps.json
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\lecture1_C#\Ex_HelloConsole\bin\Debug\net6.0\Ex_HelloConsole.runtimeconfig.json
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\lecture1_C#\Ex_HelloConsole\bin\Debug\net6.0\Ex_HelloConsole.dll
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\lecture1_C#\Ex_HelloConsole\bin\Debug\net6.0\Ex_HelloConsole.pdb
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\lecture1_C#\Ex_HelloConsole\obj\Debug\net6.0\Ex_HelloConsole.csproj.AssemblyReference.cache
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\lecture1_C#\Ex_HelloConsole\obj\Debug\net6.0\Ex_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\lecture1_C#\Ex_HelloConsole\obj\Debug\net6.0\Ex_HelloConsole.AssemblyInfoInputs.cache
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\lecture1_C#\Ex_HelloConsole\obj\Debug\net6.0\Ex_HelloConsole.AssemblyInfo.cs
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\lecture1_C#\Ex_HelloConsole\obj\Debug\net6.0\Ex_HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\lecture1_C#\Ex_HelloConsole\obj\Debug\net6.0\Ex_HelloConsole.dll
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\lecture1_C#\Ex_HelloConsole\obj\Debug\net6.0\refint\Ex_HelloConsole.dll
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\lecture1_C#\Ex_HelloConsole\obj\Debug\net6.0\Ex_HelloConsole.pdb
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\lecture1_C#\Ex_HelloConsole\obj\Debug\net6.0\Ex_HelloConsole.genruntimeconfig.cache
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\5_workshop\2_C#\lecture1_C#\Ex_HelloConsole\obj\Debug\net6.0\ref\Ex_HelloConsole.dll
