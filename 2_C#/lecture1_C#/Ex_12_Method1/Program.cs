@@ -22,7 +22,7 @@ void Method2(string msg)
 }
 Method2(msg:"Текст сообщения"); // именновай аргумент
 
-//void Method21(string msg, int count)
+void Method21(string msg, int count)
 {
     int i = 0;
     while (i < count)
